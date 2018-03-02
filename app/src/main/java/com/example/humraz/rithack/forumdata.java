@@ -1,8 +1,6 @@
 package com.example.humraz.rithack;
 
-/**
- * Created by humra on 8/16/2016.
- */
+
 public class forumdata {
     private String post;
     private String user;
