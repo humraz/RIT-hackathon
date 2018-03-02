@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "579700009119",
+    "firebase_url": "https://hackathon-f1ee8.firebaseio.com",
+    "project_id": "hackathon-f1ee8",
+    "storage_bucket": "hackathon-f1ee8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579700009119:android:d6fbf06a4d8ef5ed",
+        "android_client_info": {
+          "package_name": "com.example.humraz.rithack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579700009119-10t8bsh7vq3od7g9fc7he74d1k7pta0d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRCBwnULx3XAK9JCeFVfAItvKsuO3wYt0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
